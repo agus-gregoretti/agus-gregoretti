@@ -7,9 +7,9 @@
 #🛠️ Tools
 * SIEM: Splunk, Elastic Stack
 * Online Tools: PhishTool, Hybrid Analysis, CyberChef
-* Analisis de Trafico: Wireshark, tcpdump, Suricata
+* Network Scanning: Wireshark, tcpdump, Suricata
   
 ---
 
-## 📫 Contacto
+## 📫 Contact
 * **LinkedIn:** www.linkedin.com/in/agustin-gregoretti
