@@ -8,7 +8,7 @@
 * SIEM: Splunk, Elastic Stack
 * Online Tools: PhishTool, Hybrid Analysis, CyberChef
 * Network Scanning: Wireshark, tcpdump, Suricata
-  
+* Forensics: Autopsy, FTK
 ---
 
 ## 📫 Contact
